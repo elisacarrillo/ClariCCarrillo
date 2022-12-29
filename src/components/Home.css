@@ -1,0 +1,199 @@
+.all {
+    font-family: 'Zilla Slab', serif;
+}
+.imag {
+    
+    
+    /* margin-left: 10px; */
+    /* padding-left: 10vh;
+     */
+    /* padding-left: 2vh; */
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    font-family: 'Zilla Slab', serif;
+    /* scale:1.2; */
+    /* transform: scale(1.2); */
+}
+.container {
+    max-height: 100%;
+    height: 20%;
+}
+/* @media (min-width: 992px) {
+    col {
+        width: 200%; 
+    }
+
+    col-md-1-5 {
+        width: 66.666666666%; 
+    }
+} */
+.section1 {
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    /* width: 65%; */
+    min-width: 60%;
+    height: 40%;
+    /* align-items: center; */
+    margin:auto;
+    /* font-weight: bold; */
+    /* padding-top: 2vh;
+    padding-bottom: 2vh; */
+    display: flex;
+    align-items: center;
+    outline: 1px solid rgb(215,205,197);
+    padding-inline: 2vh;
+    /* min-height: 100vh; */
+    margin-bottom: 0.35%;
+}
+.container {
+    /* margin: 100vw; */
+    
+}
+.col {
+    /* margin-block-start: 10vw; */
+    background-color: #EBE6D9;
+    outline: 1px solid rgb(215,205,197);
+    margin: 0.5vw;
+    /* width: 15vw; */
+    width: 200vw;
+}
+.col:hover p {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    /* font-weight: bold; */
+}
+.col:hover h3 {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    /* font-weight: bold; */
+}
+.col:hover h1 {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    /* font-weight: bold; */
+}
+.about {
+    outline: 1px solid rgb(215,205,197);
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    width: 15%;
+    height: 10%; 
+    /* align-items: center; */
+    text-align: center;
+    margin-top: 3vw;
+    /* margin: auto; */
+    float: left;
+    padding-top: 5vh;
+    margin-left: 20vh;
+    padding-inline: 2vh;
+    flex-wrap: wrap;
+    /* padding-top: 2vh;
+    padding-bottom: 2vh; */
+    /* display: flex; */
+    /* align-items: baseline; */
+}
+.about:hover p {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    font-weight: bold;
+}
+.about:hover h3 {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    font-weight: bold;
+}
+
+.section3 {
+    outline: 1px solid rgb(215,205,197);
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    /* width: 15%; */
+    min-height: 15%;
+    margin-top: 3vw;
+    /* align-items: center; */
+    text-align: center;
+    float: right;
+    margin-right: 20vh;
+    flex-wrap: wrap;
+    /* margin: auto; */
+    padding-top: 5vh;
+    padding-inline: 2vh;
+}
+.col:hover p {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    /* transform-origin: bottom; */
+    font-weight: bold;
+}
+.col:hover h3 {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    /* transform-origin: bottom; */
+    font-weight: bold;
+}
+
+.section4 {
+    outline: 1px solid rgb(215,205,197);
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    width: 15%;
+    height: 10%;
+    /* align-items: center; */
+    text-align: center;
+    /* float: center; */
+    /* margin-top: 20vw; */
+    /* margin-top: 30%; */
+    /* margin: auto; */
+    margin-left: 27.5vw;
+    margin-top: 3.3vw;
+    float:none;
+    padding-top: 5vh;
+    padding-inline: 2vh;
+}
+
+.section4:hover p {
+    
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    font-weight: bold;
+}
+.section4:hover h3 {
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    transform-origin: bottom;
+    font-weight: bold;
+}
+.text {
+    /* margin-left: 4vh;
+     */
+    margin: 0;
+    text-align: center;
+    /* min-height: 1px; */
+    /* padding-bottom: -15vh; */
+    /* position: absolute; */
+    /* margin-right: 15vh; */
+    /* margin-top: -15vh; */
+    /* place-content:initial; */
+}
+
+.contentz {
+    min-height: 1px;
+    margin: auto;
+    text-align: center;
+    min-inline-size: 0;
+    line-height: 0.5;
+    /* margin-bottom: -1em; */
+      /* margin-top: 0em; */
+      /* padding: 0; */
+
+   
+}
+.helper-poo {
+    height: -80%;
+}

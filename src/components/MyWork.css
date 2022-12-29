@@ -1,0 +1,149 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+
+.all {
+    font-family: 'Zilla Slab', serif;
+    margin-top: 10%;
+    margin-bottom: 13%; 
+    /* margin: auto; */
+    text-align: center;
+    /* display: inline-block; */
+    /* margin-left: 30%; */
+    /* margin-right: 30%; */
+    margin-inline-start: 15%;
+    margin-inline-end: 15%;
+    /* width: 100%; */
+    /* margin-left: 0; */
+    /* height: 200%; */
+    /* min-height: 90vh; */
+}
+
+.choice1 {
+    /* margin-top:300px; */
+    /* float:left; */
+    position: relative;
+    margin-top: 10%;
+    margin-bottom: 38%; 
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    width: 31%;
+    height:30vw;
+    min-height: 0;
+    /* margin-left: 0; */
+    text-align: center;
+    padding-top: 20%;
+    /* align-items: center; */
+    margin:auto;
+    float:left;
+    /* margin-bottom: 100%; */
+    /* font-weight: bold; */
+    /* padding-top: 2vh;
+    padding-bottom: 2vh; */
+    /* display: flex; */
+    align-items: center;
+    outline: 1px solid rgb(215,205,197);
+    padding-inline: 2vh;
+    
+
+}
+
+.choice2 {
+  margin-top: 10%;
+    margin-bottom: 38%; 
+  background-color: #EBE6D9;
+  font-family: 'Zilla Slab', serif;
+  width: 31%;
+ 
+  /* margin-right: 10%; */
+  /* align-items: center; */
+  margin:auto;
+  float:right;
+  height:30vw;
+  /* margin-bottom: 100%; */
+  /* font-weight: bold; */
+  /* padding-top: 2vh;
+  padding-bottom: 2vh; */
+  /* display: flex; */
+  padding-top: 20%;
+  align-items: center;
+  outline: 1px solid rgb(215,205,197);
+  padding-inline: 2vh;
+  
+
+}
+
+.choice3 {
+  margin-top: 10%;
+    margin-bottom: 38%; 
+  background-color: #EBE6D9;
+  font-family: 'Zilla Slab', serif;
+  width: 31%;
+  height:30vw;
+
+    /* margin-right: 10%; */
+  /* align-items: center; */
+  margin:auto;
+  /* float:right; */
+  /* margin-bottom: 100%; */
+  /* font-weight: bold; */
+  /* padding-top: 2vh;
+  padding-bottom: 2vh; */
+  /* display: flex; */
+  align-items: center;
+  padding-top: 20%;
+
+  outline: 1px solid rgb(215,205,197);
+  padding-inline: 2vh;
+  
+
+}
+
+.choice3:hover h1 {
+  font-weight: bold;
+
+}
+.choice2:hover h1 {
+  font-weight: bold;
+
+}
+.choice1:hover h1 {
+  font-weight: bold;
+
+}
+
+.words {
+  text-align:center;
+  /* margin-top: 30%; */
+}

@@ -1,0 +1,62 @@
+.all {
+    font-family: 'Zilla Slab', serif;
+    /* min-height: 90vh; */
+}
+.imag {
+    
+    
+    /* margin-left: 10px; */
+    /* padding-left: 10vh;
+     */
+    /* padding-left: 2vh; */
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    width: 50%;
+    height:50%;
+    font-family: 'Zilla Slab', serif;
+}
+.helper {
+    min-height: 20vh;
+}
+.helper1 {
+    min-height: 20vh;
+}
+.textMiddle {
+    margin:auto;
+    text-align: center;
+    margin-bottom: 3vh;
+}
+
+.sectionz1 {
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    width: 60vw;
+    /* align-items: center; */
+    margin:auto;
+    /* font-weight: bold; */
+    /* padding-top: 2vh;
+    padding-bottom: 2vh; */
+    display: flex;
+    align-items: center;
+    outline: 1px solid rgb(215,205,197);
+    padding-inline: 2vh;
+    /* min-height: 100vh; */
+    margin-bottom: 0.35%;
+}
+
+.text {
+    /* margin-left: 4vh;
+     */
+    margin: auto;
+    /* text-align: end; */
+    /* padding-bottom: -15vh; */
+    /* position: absolute; */
+    /* margin-right: 15vh; */
+    /* margin-top: -15vh; */
+    /* place-content:initial; */
+}
+
+.buttonz {
+    margin: auto;
+    /* color: pink; */
+}

@@ -1,0 +1,17 @@
+.color-nav {
+    background-color: #F6F3E7;
+
+
+    /* text-align: left; */
+    font-family: 'Zilla Slab', serif;
+    /* margin-left: 10vh; */
+    position: sticky;
+    color:white;
+    top: 0;
+}
+
+.spacing{
+    margin-left: 2vh;
+    /* color: white; */
+    /* margin-right: 10vh; */
+}
