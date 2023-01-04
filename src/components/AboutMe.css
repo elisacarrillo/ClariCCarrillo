@@ -64,7 +64,7 @@
     /* color: pink; */
 }
 
-@media all and (max-width:800px) {
+@media screen and (max-width:800px) {
     .section1 {
         /* width: 90vw; */
         /* padding-top: 3%; */
