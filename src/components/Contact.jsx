@@ -8,10 +8,10 @@ function Contact() {
    
   <div className='section1'>
       
-          <div className='content'>
+          <div className='contentz'>
               
               <h1 className='textMiddle'>Contact Me</h1>
-              <p>(646) 334-5344</p>
+              <p>(646) 306-8439</p>
               <p>clarisa.c.carrillo@gmail.com</p>
               <p>Boston, MA</p>
               <p></p>

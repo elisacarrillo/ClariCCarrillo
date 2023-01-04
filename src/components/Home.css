@@ -49,7 +49,7 @@
     /* margin: 100vw; */
     
 }
-.col {
+.column {
     /* margin-block-start: 10vw; */
     background-color: #EBE6D9;
     outline: 1px solid rgb(215,205,197);
@@ -57,19 +57,19 @@
     /* width: 15vw; */
     width: 200vw;
 }
-.col:hover p {
+.column:hover p {
     /* transform: scaleX(1.5); */
     /* transform: scaleY(1.5); */
     transform-origin: bottom;
     /* font-weight: bold; */
 }
-.col:hover h3 {
+.column:hover h3 {
     /* transform: scaleX(1.5); */
     /* transform: scaleY(1.5); */
     transform-origin: bottom;
     /* font-weight: bold; */
 }
-.col:hover h1 {
+.column:hover h1 {
     /* transform: scaleX(1.5); */
     /* transform: scaleY(1.5); */
     transform-origin: bottom;

@@ -25,6 +25,7 @@
     margin:auto;
     text-align: center;
     margin-bottom: 3vh;
+    margin-left: 2%;
 }
 
 .sectionz1 {
@@ -43,7 +44,9 @@
     /* min-height: 100vh; */
     margin-bottom: 0.35%;
 }
-
+.imag {
+    margin-right: 2%;
+}
 .text {
     /* margin-left: 4vh;
      */
