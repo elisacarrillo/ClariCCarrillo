@@ -16,7 +16,7 @@ function MyWork() {
         window.location.href = '/awards'
         }
         const navChoreo = () =>{
-            window.location.href = '/choreography'
+            window.location.href = '/choreo'
             }
   return (
    

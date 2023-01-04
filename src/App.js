@@ -13,6 +13,7 @@ import Footer from './components/footer';
 import MyWork from './components/MyWork';
 import Contact from './components/Contact';
 import ContentCreation from './components/ContentCreation';
+import Choreo from './components/Choreo';
 function App() {
   return (
     <div className='background'>
@@ -23,6 +24,7 @@ function App() {
         <MyWork path="/mywork"/>
         <Contact path='/contact'/>
         <ContentCreation path='/contentcreation'/>
+        <Choreo path='/choreo'/>
 
       </Router>
       <Footer/>

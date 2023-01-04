@@ -1,0 +1,35 @@
+.allz {
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    /* margin-top: 10%; */
+    /* margin-bottom: 38%; */
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    width: 70%;
+    height:auto;
+    margin:auto;
+    /* float:right; */
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 2%;
+    align-items: center;
+    outline: 1px solid rgb(215,205,197);
+    padding-inline: 2vh; 
+}
+.video {
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    /* margin-top: 10%; */
+    /* margin-bottom: 38%; */
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    width: 100%;
+    height:auto;
+    margin:auto;
+    /* float:right; */
+    /* padding-top: 20%; */
+    align-items: center;
+    outline: 1px solid rgb(215,205,197);
+    padding-inline: 2vh;
+    
+}
