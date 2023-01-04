@@ -29,7 +29,7 @@
 }
 
 
-@media all and (max-width:800px) {
+@media screen and (max-width:800px) {
   .background {
     background-image: url("https://img.freepik.com/free-photo/neutral-abstract-texture-simple-background_53876-104002.jpg?w=2000");
     height: 100%;
