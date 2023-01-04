@@ -6,9 +6,9 @@ function Contact() {
   return (
     <div className='all'>
    
-  <div className='sectionzz1'>
+  <div className='section1'>
       
-          <div className='text'>
+          <div className='content'>
               
               <h1 className='textMiddle'>Contact Me</h1>
               <p>(646) 334-5344</p>

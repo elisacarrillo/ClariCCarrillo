@@ -60,3 +60,26 @@
     margin: auto;
     /* color: pink; */
 }
+
+@media all and (max-width:800px) {
+    .section1 {
+        /* width: 90vw; */
+        /* padding-top: 3%; */
+        height: 100%;
+        margin: auto;
+
+    }
+    .content {
+        /* margin   -left: 4vh;
+         */
+        margin: auto;
+        padding-top: 8%;
+        /* text-align: end; */
+        /* padding-bottom: -15vh; */
+        /* position: absolute; */
+        /* margin-right: 15vh; */
+        /* margin-top: -15vh; */
+        /* place-content:initial; */
+    }
+
+}

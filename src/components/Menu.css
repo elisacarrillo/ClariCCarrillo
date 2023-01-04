@@ -14,4 +14,27 @@
     margin-left: 2vh;
     /* color: white; */
     /* margin-right: 10vh; */
+
+
 }
+
+@media screen and (max-width: 800px) {
+    .color-nav {
+        background-color: #F6F3E7; 
+        text-align: left;
+         font-family: 'Zilla Slab', serif;
+         /* margin-left: 10vh; */
+         position: sticky;
+        color:white;
+        font-size: 10px;
+        top: 0;
+        width: 100%;
+        /* user-scalable=0; */
+    }
+    .spacing{
+        /* margin-left: 2vh; */
+        color: white; 
+        /* margin-right: 10vh;  */
+    }
+}
+    

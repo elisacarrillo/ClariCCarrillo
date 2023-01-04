@@ -22,13 +22,13 @@ function MyWork() {
    
    
     <div className='all'>
-     <div className='choice1' onClick={navContent}>
+     <div className='column' onClick={navContent}>
         <h1 className='words'>Content Creation</h1>
     </div>
-    <div className='choice2' onClick={navChoreo}>
+    <div className='column' onClick={navChoreo}>
         <h1 className='words'>Choreography</h1>
         </div>
-    <div className='choice3' onClick={navAwards}>
+    <div className='column' onClick={navAwards}>
         <h1 className='words'>Awards</h1>
     </div>
     </div>

@@ -34,15 +34,15 @@ function Home() {
 
     <br></br>
     <div class='row'>
-    <div class='col' onClick={navAbout}>
+    <div class="column" onClick={navAbout}>
         <h3>About Me</h3>
         <p>More about my background, including my education history</p>
     </div>
-    <div class='col' onClick={navContact}>
+    <div class="column" onClick={navContact}>
         <h3>Contact Me</h3>
         <p>Click here for my email, number, and socials</p>
     </div>
-    <div class='col' onClick={navWork}>
+    <div class="column" onClick={navWork}>
         <h3>My Work</h3>
         <p>A comprehensive portfolio including content creation, choreography, and papers</p>
     </div>
@@ -50,7 +50,7 @@ function Home() {
     </div>
     
     
-    <div className='helper'></div>
+    {/* <div className='helper-poo'></div> */}
     </div>
   );
 }
