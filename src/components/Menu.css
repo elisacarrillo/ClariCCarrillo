@@ -36,5 +36,14 @@
         color: white; 
         /* margin-right: 10vh;  */
     }
+    .me-auto {
+        font-size: 16px;
+        margin-left: 5%;
+        /* outline: 1px solid rgb(215,205,197); */
+        
+    }
+    .nav-link {
+        border-top: 1px solid rgb(215,205,197);
+    }
 }
     

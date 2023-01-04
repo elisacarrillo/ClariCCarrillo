@@ -21,8 +21,8 @@ function Home() {
       {/* <h1>Home</h1> */}
     <div class='container'>
       {/* <div class='helper-poo'> </div> */}
-    <div className='section1'>
-        <img class="imag" src={image} />
+    <div className='sectionr1'>
+        <img class="imag2" src={image} />
             <div className='contentz'>
                 <h1>Clarisa Carrillo</h1>
                 <p>  Emerson College '24</p>
