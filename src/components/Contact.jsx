@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div className='all'>
    
-  <div className='section1'>
+  <div className='sectionrk1'>
       
           <div className='contentz'>
               

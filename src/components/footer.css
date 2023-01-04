@@ -1,6 +1,6 @@
 .footer{
     margin-top: 1rem;
-    padding: 1rem;
+    padding: 1vw;
     /* background-color: rgb(249,206,231); */
     background-color: #F6F3E7;
     /* margin: auto; */
@@ -11,6 +11,10 @@
     left: 0;
     width: 100%;
     line-height: 10px;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    /* padding-bottom: 50px; */
     /* min-height: 20vh; */
     /* margin-inline: 0 */
   }

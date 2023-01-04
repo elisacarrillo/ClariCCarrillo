@@ -16,7 +16,7 @@ function About() {
       {/* <div className='helper1'>
       </div> */}
 
-    <div className='sectionz1'>
+    <div className='sectionrk1'>
         
             <div className='content'>
                 

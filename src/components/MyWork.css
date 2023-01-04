@@ -1,14 +1,46 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
+    padding: 0 3px;
+    /* margin-top: 25vw; */
+    margin-bottom: 10%;
   }
   
   /* Create four equal columns that sits next to each other */
   .column {
-    flex: 25%;
-    max-width: 25%;
-    padding: 0 4px;
+    /* flex: 15%;
+    max-width: 15vw; */
+    /* width: 200%;
+    padding: 0 4px; */
+    /* position: relative; */
+    /* margin-top: 10%; */
+    /* margin-top: 30vw; */
+    /* margin-bottom: 100%;  */
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    /* width: 8%; */
+    height:20vw;
+    padding-top: 10vh;
+    
+    /* min-height: 0; */
+    /* margin-left: 0; */
+    /* text-align: center; */
+    /* padding-top: 20%; */
+    /* align-items: center; */
+    /* margin:auto; */
+    /* float:left; */
+    /* margin-bottom: 100%; */
+    /* font-weight: bold; */
+    /* padding-top: 2vh;
+    padding-bottom: 2vh; */
+    /* display: flex; */
+    /* align-items: center; */
+    outline: 1px solid rgb(215,205,197);
+    /* padding-inline: 1vh; */
+     /* margin-left: 8%;
+    margin-right: 8%; 
+     */
+
   }
   
   .column img {
@@ -47,7 +79,7 @@
 
 .all {
     font-family: 'Zilla Slab', serif;
-    margin-top: 10%;
+    margin-top: 15%;
     margin-bottom: 13%; 
     /* margin: auto; */
     text-align: center;
@@ -157,5 +189,19 @@
 
 .words {
   text-align:center;
+  padding-top:25%;
+  /* vertical-align: middle; */
   /* margin-top: 30%; */
 }
+
+.Absolute-Center {
+
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  /* margin-top : -50px; */
+  /* margin-left: -50px; */
+  /* width: 100px; */
+  /* height: 100px;   */
+
+}  

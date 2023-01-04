@@ -18,6 +18,8 @@
   backgroundSize:"contain"; */
   margin: 0px;
   padding: 0px;
+  position: relative;
+  padding-bottom: 100px;
   /* fill entire screen with rgb(253,22,242) */
 
   
@@ -40,6 +42,7 @@
     min-width: 20vh;
     margin: 0px;
     padding: 0px;
+    padding-bottom: 100px;
   }
 }
 .App-header {

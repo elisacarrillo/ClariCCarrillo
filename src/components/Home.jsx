@@ -21,7 +21,7 @@ function Home() {
       {/* <h1>Home</h1> */}
     <div class='container'>
       {/* <div class='helper-poo'> </div> */}
-    <div className='sectionr1'>
+    <div className='sectionrk1'>
         <img class="imag2" src={image} />
             <div className='contentz'>
                 <h1>Clarisa Carrillo</h1>
