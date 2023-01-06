@@ -1,13 +1,33 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 3px;
+    padding: 0 0px;
     /* margin-top: 25vw; */
-    margin-bottom: 10%;
+    /* margin-bottom: 10%; */
+    margin-top: 40vw;
+    justify-content: center;
   }
-  
+  .col-md {
+    background-color: #EBE6D9;
+    font-family: 'Zilla Slab', serif;
+    height:30vw;
+    margin: 1%;
+    /* margin-inline-start: 5%; */
+    /* margin-inline-end: 5%; */
+    /* margin-block-end: 5%; */
+    /* margin-inline: 5%; */
+    outline: 1px solid rgb(215,205,197);
+    /* margin-block-start: 4%; */
+    /* margin-left: 2%;
+    margin-right: 2%; */
+    /* inset-block: 4vw; */
+    /* margin-inline-start: 1%;
+    margin-inline-end: 1%;; */
+    /* padding-top: 20%; */
+    
+  }
   /* Create four equal columns that sits next to each other */
-  .column {
+  .column22 {
     /* flex: 15%;
     max-width: 15vw; */
     /* width: 200%;
@@ -19,7 +39,7 @@
     background-color: #EBE6D9;
     font-family: 'Zilla Slab', serif;
     /* width: 8%; */
-    height:20vw;
+    height:10vw;
     padding-top: 10vh;
     
     /* min-height: 0; */
@@ -51,7 +71,7 @@
   
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media screen and (max-width: 800px) {
-    .columnz1 {
+    .col-md {
       flex: 50%;
       max-width: 50%;
       height: 50vw;
@@ -70,12 +90,12 @@
   }
   
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
+  /* @media screen and (max-width: 600px) {
+    .col-sm {
       flex: 100%;
       max-width: 100%;
     }
-  }
+  } */
 
 .all {
     font-family: 'Zilla Slab', serif;
@@ -195,13 +215,16 @@
 }
 
 .Absolute-Center {
-
-  position: absolute;
-  top: 25%;
-  left: 25%;
+  /* margin:auto; */
+  margin-top: 10vw;
+  /* position: absolute;
+  top: 20%;
+  left: 20%; */
   /* margin-top : -50px; */
   /* margin-left: -50px; */
   /* width: 100px; */
   /* height: 100px;   */
+  margin-right: 4%;
+  margin-left: 4%;
 
 }  

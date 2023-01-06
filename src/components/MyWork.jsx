@@ -22,17 +22,16 @@ function MyWork() {
    
    <div className='Absolute-Center'>
     <div class='row'>
-      <div class='column' onClick={navContent}>
-        <h3 className='words'>Content Creation</h3>
-      </div>
-      <div class='column' onClick={navChoreo}>
+      <br></br>
+      <div class='col-md' onClick={navContent}><h3 className='words'>Content Creation</h3></div><div class='col-md' onClick={navChoreo}>
         <h3 className='words'>Choreography</h3>
       </div>
-      <div class='column' onClick={navAwards}>
+      <div class='col-md' onClick={navAwards}>
         <h3 className='words'>Awards</h3>
       </div>
+      <br></br>
     </div>
-    <br></br>
+   
     </div>
     
     // </div>

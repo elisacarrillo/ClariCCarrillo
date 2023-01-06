@@ -34,15 +34,15 @@ function Home() {
 
     <br></br>
     <div class='row'>
-    <div class="column" onClick={navAbout}>
+    <div class="col-sm" onClick={navAbout}>
         <h3>About Me</h3>
         <p>More about my background, including my education history</p>
     </div>
-    <div class="column" onClick={navContact}>
+    <div class="col-sm" onClick={navContact}>
         <h3>Contact Me</h3>
         <p>Click here for my email, number, and socials</p>
     </div>
-    <div class="column" onClick={navWork}>
+    <div class="col-sm" onClick={navWork}>
         <h3>My Work</h3>
         <p>A comprehensive portfolio including content creation, choreography, and papers</p>
     </div>
