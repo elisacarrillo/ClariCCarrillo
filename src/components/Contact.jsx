@@ -4,9 +4,9 @@ import Button from 'react-bootstrap/Button';
 import './Contact.css';
 function Contact() {
   return (
-    <div className='all'>
-   
-  <div className='sectionrk1'>
+    <div className='container'>
+   <div className='all'>
+  <div className='sectionrk2'>
       
           <div className='contentz'>
               
@@ -20,6 +20,7 @@ function Contact() {
           <img class="imag" src={image2} />
           
   
+  </div>
   </div>
   </div>
 

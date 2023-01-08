@@ -11,12 +11,9 @@ function About() {
     
   
     <div className='all'>
-      {/* <h1>Home</h1> */}
-
-      {/* <div className='helper1'>
-      </div> */}
-
-    <div className='sectionrk1'>
+ 
+    <div className='container'>
+    <div className='sectionrk2'>
         
             <div className='content'>
                 
@@ -28,6 +25,7 @@ function About() {
             <img class="imag" src={image2} />
             
     
+    </div>
     </div>
     <div className='helper'></div>
   

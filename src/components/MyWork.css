@@ -9,7 +9,7 @@
   }
   .col-md {
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     height:30vw;
     margin: 1%;
     /* margin-inline-start: 5%; */
@@ -37,7 +37,7 @@
     /* margin-top: 30vw; */
     /* margin-bottom: 100%;  */
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     /* width: 8%; */
     height:10vw;
     padding-top: 10vh;
@@ -98,7 +98,7 @@
   } */
 
 .all {
-    font-family: 'Zilla Slab', serif;
+  font-family: sans-serif, serif;
     margin-top: 15%;
     margin-bottom: 13%; 
     /* margin: auto; */
@@ -121,7 +121,7 @@
     margin-top: 10%;
     margin-bottom: 38%; 
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     width: 31%;
     height:30vw;
     min-height: 0;
@@ -172,7 +172,7 @@
   margin-top: 10%;
     margin-bottom: 38%; 
   background-color: #EBE6D9;
-  font-family: 'Zilla Slab', serif;
+  font-family: sans-serif, serif;
   width: 31%;
   height:30vw;
 

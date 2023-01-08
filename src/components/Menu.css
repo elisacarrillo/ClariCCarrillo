@@ -3,7 +3,7 @@
 
 
     /* text-align: left; */
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     /* margin-left: 10vh; */
     position: sticky;
     color:white;
@@ -22,7 +22,7 @@
     .color-nav {
         background-color: #F6F3E7; 
         text-align: left;
-         font-family: 'Zilla Slab', serif;
+        font-family: sans-serif, serif;
          /* margin-left: 10vh; */
          position: sticky;
         color:white;

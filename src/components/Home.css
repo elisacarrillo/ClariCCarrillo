@@ -1,5 +1,5 @@
 .all {
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
 }
 .imag {
     
@@ -10,7 +10,7 @@
     /* padding-left: 2vh; */
     padding-top: 2vh;
     padding-bottom: 2vh;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     /* scale:1.2; */
     /* transform: scale(1.2); */
 }
@@ -31,10 +31,11 @@
 
 .sectionrk1 {
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     /* width: 65%; */
     min-width: 60%;
     height: 40%;
+    /* margin-top: -15%; */
     /* align-items: center; */
     margin:auto;
     /* font-weight: bold; */
@@ -55,13 +56,15 @@
     /* margin-block-start: 10vw; */
     /* padding-top: 2%; */
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     /* width: 8%; */
-    height:10vw;
+    height:100%;
     /* padding: 3%; */
     text-align: center;
     margin: 1%;
-    padding: 5px 0;
+    padding: 70px 0;
+    min-height: 15vw;
+
     
 
 
@@ -82,19 +85,19 @@
     outline: 1px solid rgb(215,205,197);
     /* float: left; */
 }
-.column:hover p {
+.col-sm:hover p {
     /* transform: scaleX(1.5); */
     /* transform: scaleY(1.5); */
     transform-origin: bottom;
     font-weight: bold;
 }
-.column:hover h3 {
+.col-sm:hover h3 {
     /* transform: scaleX(1.5); */
     /* transform: scaleY(1.5); */
     transform-origin: bottom;
     font-weight: bold;
 }
-.column:hover h1 {
+.col-sm:hover h1 {
     /* transform: scaleX(1.5); */
     /* transform: scaleY(1.5); */
     transform-origin: bottom;
@@ -103,7 +106,7 @@
 .about {
     outline: 1px solid rgb(215,205,197);
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     width: 15%;
     height: 10%; 
     /* align-items: center; */
@@ -137,7 +140,7 @@
 .section3 {
     outline: 1px solid rgb(215,205,197);
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     /* width: 15%; */
     min-height: 15%;
     margin-top: 3vw;
@@ -167,7 +170,7 @@
 .section4 {
     outline: 1px solid rgb(215,205,197);
     background-color: #EBE6D9;
-    font-family: 'Zilla Slab', serif;
+    font-family: sans-serif, serif;
     width: 15%;
     height: 10%;
     /* align-items: center; */
@@ -214,7 +217,7 @@
     margin: auto;
     text-align: center;
     min-inline-size: 0;
-    line-height: 0.5;
+    line-height: 1;
     /* margin-bottom: -1em; */
       /* margin-top: 0em; */
       /* padding: 0; */
@@ -226,17 +229,17 @@
 }
 .container {
     display: inline-block;
+    margin-top: -15%;
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1000px) {
     /* .all {
         /* max-height: 100%; */
         /* height: 100%; */
     .imag2 {
         padding: 2vh;
         padding-bottom: 2vh;
-
-        font-family: 'Zilla Slab', serif;
+        font-family: sans-serif, serif;
         /* size: 50vw; */
         width: 100%;
         min-height: auto;
@@ -274,7 +277,7 @@
         margin: 4%;
         outline: 1px solid rgb(215,205,197);
         background-color: #EBE6D9;
-        font-family: 'Zilla Slab', serif;
+        font-family: sans-serif, serif;
     }
     .about {
         width: 100%;
@@ -328,7 +331,7 @@
         /* text-align: center; */
         /* min-inline-size: 0; */
         line-height: 1;
-        margin-bottom: -1em;
+        margin-bottom: 1em;
         margin-top: 0em;
         padding: 0;
         background-color: #EBE6D9;
