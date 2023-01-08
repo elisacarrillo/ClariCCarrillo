@@ -10,8 +10,9 @@
   .col-md {
     background-color: #EBE6D9;
     font-family: sans-serif, serif;
-    height:30vw;
+    height:35vw;
     margin: 1%;
+    margin-bottom: 20%;
     /* margin-inline-start: 5%; */
     /* margin-inline-end: 5%; */
     /* margin-block-end: 5%; */
@@ -228,3 +229,6 @@
   margin-left: 4%;
 
 }  
+.helper45 {
+  /* height: 30%; */
+}

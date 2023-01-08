@@ -20,19 +20,19 @@ function MyWork() {
             }
   return (
    
-   <div className='Absolute-Center'>
-    <div class='row'>
-      <br></br>
-      <div class='col-md' onClick={navContent}><h3 className='words'>Content Creation</h3></div><div class='col-md' onClick={navChoreo}>
-        <h3 className='words'>Choreography</h3>
+   <><div className='Absolute-Center'>
+      <div class='row'>
+        <br></br>
+        <div class='col-md' onClick={navContent}><h3 className='words'>Content Creation</h3></div><div class='col-md' onClick={navChoreo}>
+          <h3 className='words'>Choreography</h3>
+        </div>
+        <div class='col-md' onClick={navAwards}>
+          <h3 className='words'>Awards</h3>
+        </div>
+        <br></br>
       </div>
-      <div class='col-md' onClick={navAwards}>
-        <h3 className='words'>Awards</h3>
-      </div>
-      <br></br>
-    </div>
-   
-    </div>
+
+    </div><div className='helper45'></div></>
     
     // </div>
     // <div class="row">

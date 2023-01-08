@@ -27,7 +27,7 @@ function About() {
     
     </div>
     </div>
-    <div className='helper'></div>
+   
   
     </div>
   );
