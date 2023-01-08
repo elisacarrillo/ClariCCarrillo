@@ -33,6 +33,7 @@ function Home() {
     </div>
 
     <br></br>
+    {/* <div class = 'container'> */}
     <div class='row'>
     <div class="col-sm" onClick={navAbout}>
         <h3>About Me</h3>
@@ -47,6 +48,7 @@ function Home() {
         <p>A comprehensive portfolio including content creation, choreography, and papers</p>
     </div>
     </div>
+    {/* </div> */}
     </div>
     
     
