@@ -9,12 +9,12 @@
     height:auto;
     margin:auto;
     /* float:right; */
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 10%;
     padding: 2%;
     align-items: center;
     outline: 1px solid rgb(215,205,197);
-    padding-inline: 2vh; 
+    padding-inline: 2%; 
 }
 .video {
     background-color: #EBE6D9;
