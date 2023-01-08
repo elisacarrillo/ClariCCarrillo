@@ -19,7 +19,7 @@ function Home() {
   
     <div className='all'>
       {/* <h1>Home</h1> */}
-    <div class='container'>
+    <div class='zcontainer'>
       {/* <div class='helper-poo'> </div> */}
     <div className='sectionrk1'>
         <img class="imag2" src={image} />

@@ -4,9 +4,9 @@ import Button from 'react-bootstrap/Button';
 import './Contact.css';
 function Contact() {
   return (
-    <div className='container'>
+    <div className='container2'>
    <div className='all'>
-  <div className='sectionrk2'>
+  <div className='section1'>
       
           <div className='contentz'>
               
