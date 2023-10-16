@@ -25,7 +25,7 @@ function Home() {
         <img class="imag2" src={image} />
             <div className='contentz'>
                 <h1>Clarisa Carrillo</h1>
-                <p>  Emerson College '24</p>
+                <p>  Emerson College December '23</p>
                 <p>  Polling Center Research Assistant</p>
                 <p>  Intercultural Student Affairs Student Worker</p>
                 <p>  Social Media and Programming Intern</p>
